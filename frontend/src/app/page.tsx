@@ -19,6 +19,7 @@ export default function Home() {
           </li>
           <li>Save and see your changes instantly.</li>
           <li>デプロイするねん！</li>
+          <li>即時反映してますか？</li>
         </ol>
 
         <div className={styles.ctas}>
